@@ -1,0 +1,86 @@
+.edit-image1 {
+  border: 0;
+  width: 200px;
+}
+.edit-image2 {
+  height: 500px;
+}
+.edit-image3 {
+  width: 100px;
+}
+.edit-image4 {
+  width: 100px;
+}
+.back {
+  background-image: url("https://raw.githubusercontent.com/DDI-ESFOT/prueba-b1-2020b-CarlosAndresQuel00/master/images/phone-2.a0e481df3d808370cf1d.jpg");
+  height: 450px;
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.text-co {
+  color: #cccccc;
+}
+.btn-warning {
+  border-radius: 25px;
+  background-color: orange;
+  border: 2px solid white;
+}
+#back-color {
+  background-color: #04488B;
+  height: 200px;
+  text-align: center;
+}
+.edit-image5 {
+  width: 80px;
+  height: 50px;
+}
+.text-co2 {
+  color: gainsboro;
+}
+.edit-image6 {
+  height: 450px;
+  object-fit: cover;
+}
+.input-group {
+  width: 300px;
+}
+.form-control {
+  border: 0;
+  border-radius: 0;
+  border-bottom: 1px solid gainsboro;
+  padding: 0;
+}
+.edit-image7 {
+  width: 50px;
+  height: 50px;
+  background-color: #668AB5;
+  object-fit: cover;
+}
+.rounded-circle {
+  padding: 10px;
+}
+.btn-primary {
+  background-color: #668AB5;
+  border: 0;
+  border-radius: 25px;
+  color: white;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+.color-change {
+  background-color: #04488B;
+  height: 100px;
+}
+.edit-image8 {
+  width: 50px;
+  height: 50px;
+}
+.edit-image9 {
+  width: 20px;
+  height: 20px;
+  text-align: left;
+}
+.font-s {
+  font-size: 10px;
+}
